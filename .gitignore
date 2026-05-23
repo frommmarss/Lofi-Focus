@@ -3,6 +3,9 @@
 # dependencies
 /node_modules
 hardhat/node_modules
+hardhat/artifacts/
+hardhat/cache/
+hardhat/ignition/deployments/
 /.pnp
 .pnp.*
 .yarn/*
